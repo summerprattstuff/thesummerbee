@@ -377,6 +377,21 @@ a:focus-visible {
 }
 
 @media (max-width: 800px) {
+  html {
+    height: auto;
+  }
+
+  body {
+    display: block;
+    min-height: 0;
+  }
+
+  .screen {
+    display: block;
+    transform: none;
+    padding-block: 1.25rem 2.5rem;
+  }
+
   .hero,
   .promise,
   .notes,
