@@ -215,15 +215,6 @@ h1 span {
   font-size: 0.98rem;
 }
 
-.reminder {
-  max-width: 34rem;
-  margin: 0.5rem 0 0;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--line);
-  color: var(--ink-soft);
-  font-size: 0.95rem;
-}
-
 .inside,
 .for-you {
   padding-bottom: 4.5rem;
